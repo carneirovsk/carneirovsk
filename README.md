@@ -24,6 +24,11 @@ Engenheiro de computação, e futuro fullstack🤩🤩🤩
   
 </div>
 
+##
+
+<img src="https://raw.githubusercontent.com/carneirovsk/carneirovsk/output/snake.svg" alt="Snake animation" />
+
+###
 
 
 

@@ -1,5 +1,13 @@
 ## Olá!! Eu sou o Pedro Carneiro 😎
 Engenheiro de computação, e futuro fullstack🤩🤩🤩
+
+##
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=carneirovsk&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=carneirovsk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="100" alt="languages graph"  />
+</div>
+##
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">

@@ -1,4 +1,13 @@
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7fff00&width=435&lines=Seja+bem-vindo+ao+meu+perfil" alt="Typing SVG">
+  </a>
+</div>
+
+
 ## 👋 Olá!! Eu sou o Pedro Carneiro 
+###
 Sou engenheiro da computação formado na universidade CEUMA. Hoje eu sou um desenvolvedor backend, entretanto busco como principal missão me tornar fullstack!
 
 Faço parte da turma de módulo 1 do Incode techschool!!

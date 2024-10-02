@@ -5,12 +5,12 @@ Faço parte da turma de módulo 1 do Incode techschool!!
 
 ##
 <div align="center">
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=carneirovsk&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />  -->
-  <img src="https://streak-stats.demolab.com?user=carneirovsk&locale=en&mode=daily&theme=dark&hide_border=false&card_width=546&border_radius=7" height="150" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=carneirovsk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=carneirovsk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=carneirovsk&locale=en&mode=daily&theme=chartreuse-dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=carneirovsk&radius=16&theme=chartreuse-dark&area=true&order=5&hide_border=false&line=0D21A1" height="256" alt="activity-graph graph"  />
 </div>
 
-##
+###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />

@@ -13,7 +13,7 @@ Sou engenheiro da computação formado pela Universidade CEUMA. Atualmente, sou 
 ---
 
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=carneirovsk&theme=chartreuse-dark" alt="GitHub Streak" /></a>
+  <img href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=carneirovsk&theme=chartreuse-dark" alt="GitHub Streak" /></img>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=carneirovsk&radius=16&theme=chartreuse-dark&area=true&order=5&hide_border=false&line=0D21A1" height="256" alt="Activity Graph" />
   <img src = "https://github-readme-stats.shion.dev/api/top-langs/?username=carneirovsk&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 </div>

@@ -6,8 +6,7 @@
 
 ## 👋 Olá! Eu sou o **Pedro Carneiro** 
 
-Sou engenheiro da computação formado pela Universidade CEUMA. Atualmente, sou desenvolvedor backend e minha missão é me tornar um desenvolvedor fullstack!
-Everything is gonna be alright!🚀
+Sou engenheiro da computação formado pela Universidade CEUMA. Atualmente, sou desenvolvedor backend e minha missão é me tornar um desenvolvedor fullstack!🚀
 
 <!--Faço parte da turma de Módulo 2 trilha de Backend do **Incode Tech School**!-->
 

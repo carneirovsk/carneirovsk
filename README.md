@@ -8,7 +8,6 @@
 
 Sou engenheiro da computação formado pela Universidade CEUMA. Atualmente, sou desenvolvedor backend e minha missão é me tornar um desenvolvedor fullstack!🚀
 Viva um dia de cada vez!
-Não esqueça... Você é capaz!
 
 <!--Faço parte da turma de Módulo 2 trilha de Backend do **Incode Tech School**!-->
 
